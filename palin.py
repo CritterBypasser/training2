@@ -1,3 +1,5 @@
+#find if any permutation of a given word is a palindrome
+
 N=str(input())
 from collections import Counter
 c=Counter(N)
