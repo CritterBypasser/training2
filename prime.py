@@ -1,3 +1,5 @@
+#print all the prime numbers in a range from 1 to n
+
 N=int(input('enter the number  ' ))
 
 def isPrime(n):
