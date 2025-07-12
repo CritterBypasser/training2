@@ -1,4 +1,4 @@
-#flip number
+#flag all the numebrs that show another number when flipped 
 n= int(input())
 for i in range(n):
     flag=0
