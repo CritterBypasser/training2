@@ -1,3 +1,5 @@
+#if there are 'k' queens in a k x k chessboard, output whether the queens can each be placed in locations safe from each other, so that they dont attack
+
 k= int(input())
 chessboard=[[0 for _ in range(k)] for _ in range(k)]
 
