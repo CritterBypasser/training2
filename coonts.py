@@ -1,3 +1,5 @@
+#count the number of zeros in a range from 1 to input n
+
 def countZeros(n):
     result =0
     digit=1
