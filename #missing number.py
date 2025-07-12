@@ -1,4 +1,4 @@
-#missing number
+#return the missing number from a list of n consecutive numbers
 n=int(input())
 
 def sum_dig(n):
