@@ -1,3 +1,5 @@
+#get the maximum profit, given the stock market portfolio
+
 n = int(input())
 stock = list(map(int, input().split()))
 
